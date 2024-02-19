@@ -1,0 +1,11 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+*{
+    scroll-behavior: smooth;
+}
+html,body {
+    text-decoration-skip-ink:none;
+    scroll-behavior: smooth;
+}
+
